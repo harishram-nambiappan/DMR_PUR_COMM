@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513053019316",
+    "project_id": "dmr-pur-comm",
+    "storage_bucket": "dmr-pur-comm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513053019316:android:c3d9f5e6a275fe3e1f5be1",
+        "android_client_info": {
+          "package_name": "com.harishram.dmr_pur_comm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513053019316-9t4s481oe25b94701onvhaeea20t2r2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtfHC-EQwA22SQJLqKDZ88cjdWO0txA2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513053019316-9t4s481oe25b94701onvhaeea20t2r2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
